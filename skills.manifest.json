@@ -1,0 +1,39 @@
+{
+  "external_skills": [
+    {
+      "name": "academic-research-suite",
+      "repo": "Imbad0202/academic-research-skills-codex",
+      "ref": "main",
+      "path": "skills/academic-research-suite",
+      "purpose": "学术研究、论文阅读、写作、review、实验规划"
+    },
+    {
+      "name": "handoff",
+      "repo": "mattpocock/skills",
+      "ref": "main",
+      "path": "skills/productivity/handoff",
+      "purpose": "长会话交接"
+    },
+    {
+      "name": "grill-me",
+      "repo": "mattpocock/skills",
+      "ref": "main",
+      "path": "skills/productivity/grill-me",
+      "purpose": "方法和实验设计质询"
+    },
+    {
+      "name": "excalidraw",
+      "repo": "coleam00/excalidraw-diagram-skill",
+      "ref": "main",
+      "path": ".",
+      "purpose": "方法图和流程图"
+    },
+    {
+      "name": "frontend-slides",
+      "repo": "zarazhangrui/frontend-slides",
+      "ref": "main",
+      "path": ".",
+      "purpose": "HTML slides 生成"
+    }
+  ]
+}
